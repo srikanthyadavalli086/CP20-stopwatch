@@ -1,0 +1,39 @@
+/* Write CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  background-size: cover;
+  padding: 20px;
+}
+.timer-div {
+  display: flex;
+}
+.a {
+  width: 50px;
+  height: 26px;
+  color: #ffffff;
+  background-color: #1db05f;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.b {
+  width: 50px;
+  height: 26px;
+  color: #ffffff;
+  background-color: #ef0d36;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.c {
+  width: 50px;
+  height: 26px;
+  color: #ffffff;
+  background-color: #eaa800;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.icon {
+  height: 30px;
+}
